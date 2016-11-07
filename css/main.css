@@ -1,0 +1,32 @@
+#bg{
+	background-color: #2f3533;
+	height: 662px;
+}
+
+#temp{
+	background: url(../images/Remy.jpg) no-repeat center;
+	background-size: contain;
+    height: 400px;
+    margin-top: 10%;
+}
+
+blockquote{
+	margin-top: 10px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+}
+
+.la{
+	border-right: 8px solid #2f3533;
+	font-family: Papyrus, sans-serif;
+    font-weight: bold;
+    font-size: 25px;		
+}
+
+p{
+    color: #fea794;
+}
+
+footer{
+    color: #96adbc;
+}
